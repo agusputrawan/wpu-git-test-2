@@ -11,6 +11,9 @@
 <body>
     <h1>Hello World!</h1>
     <p>lorem</p>
+    <u>
+        <li>satu</li>
+        <li>dua</li>
 <script type="text/javascript" src="script.js"></script>
 </body>
 </html>
