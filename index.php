@@ -10,6 +10,7 @@
 </head>    
 <body>
     <h1>Hello World!</h1>
+    <p>lorem</p>
 <script type="text/javascript" src="script.js"></script>
 </body>
 </html>
